@@ -1,6 +1,8 @@
+import java.time.Instant;
+
 public class Main {
     public static void main(String[] args) {
-        // HashTable
-
+        Solution solution = new Solution();
+        solution.test();
     }
 }
